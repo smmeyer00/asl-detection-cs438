@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>f.25308840-c191-11ec-af4e-acde48001122.jpg</filename>
+	<path>/Users/jonahwiggenhorn/Documents/repos/asl-detection-cs438/Tensorflow/workspace/images/collectedimages/f.25308840-c191-11ec-af4e-acde48001122.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>f</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>72</ymin>
+			<xmax>396</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>
