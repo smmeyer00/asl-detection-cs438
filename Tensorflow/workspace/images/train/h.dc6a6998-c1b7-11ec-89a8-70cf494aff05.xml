@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>h.dc6a6998-c1b7-11ec-89a8-70cf494aff05.jpg</filename>
+	<path>C:\Users\smmey\Desktop\code\asl-detection-cs438\Tensorflow\workspace\images\collectedimages\h.dc6a6998-c1b7-11ec-89a8-70cf494aff05.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>h</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>194</ymin>
+			<xmax>225</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

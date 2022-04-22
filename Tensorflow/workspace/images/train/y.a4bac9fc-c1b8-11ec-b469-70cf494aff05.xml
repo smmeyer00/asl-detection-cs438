@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>y.a4bac9fc-c1b8-11ec-b469-70cf494aff05.jpg</filename>
+	<path>C:\Users\smmey\Desktop\code\asl-detection-cs438\Tensorflow\workspace\images\collectedimages\y.a4bac9fc-c1b8-11ec-b469-70cf494aff05.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>y</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>157</ymin>
+			<xmax>249</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+</annotation>
